@@ -4,12 +4,6 @@ Software engineer writing about systems, AI, markets, and decision-making under 
 
 I build backend systems and care about scalable, reliable software. Outside of engineering, I write personal essays about markets, AI cycles, money, bubbles, and the psychology of risk.
 
-<p align="center">
-  <a href="https://yiming0318.github.io/katsu-essays/">
-    <img src="https://opengraph.githubassets.com/1/Yiming0318/katsu-essays" alt="Katsu Essays preview" width="900" />
-  </a>
-</p>
-
 ---
 
 ## Writing
